@@ -151,7 +151,7 @@ img{
 
 
 /*MOBILE DESIGN FOR MAX-WIDTH: 375PX*/
-@media screen and (max-width: 375px) and (max-height: 700px)  {
+@media screen and (max-width: 375px)   {
     
 
     .container{
