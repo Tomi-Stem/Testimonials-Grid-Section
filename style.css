@@ -164,7 +164,7 @@ img{
         flex: none;
         display: block;
         margin-bottom: 440px;
-        margin-left: 25px;
+        margin-left: 15px;
     }
 
     .top_div{
@@ -209,7 +209,7 @@ img{
     .right_div{
         width: 320px;
         height: 470px;
-        margin-left: 25px;
+        margin-left: 15px;
         padding-right: 39px;
     }
 
