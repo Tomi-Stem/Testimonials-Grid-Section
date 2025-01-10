@@ -151,13 +151,15 @@ img{
 
 
 /*MOBILE DESIGN FOR MAX-WIDTH: 375PX*/
-@media screen and (max-width: 375px)   {
+@media screen and (max-width: 425px)   {
     
 
     .container{
         flex: none;
         display: block;
-        width: 350px;
+        width: 345px;
+        height: auto;
+        margin-bottom: 30px;
     }
 
     .left_div{
